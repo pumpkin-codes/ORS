@@ -1,0 +1,12 @@
+{
+  "name": "ORS",
+  "displayName": "ORS",
+  "expo": {
+    "name": "ORS",
+    "slug": "ORS",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
